@@ -1,5 +1,5 @@
 <h1 align="flex-start">Hi 👋, I'm Raphael Abenom</h1>
-<h3 align="center">A data analytics enthusiast from Brazil</h3>
+<h3 align="flex-start">A data analytics enthusiast from Brazil</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelabenom)](https://github.com/anuraghazra/github-readme-stats)
 
