@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelabenom&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelabenom" /> </p>
 
-<p align="left"></p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
