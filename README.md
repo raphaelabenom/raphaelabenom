@@ -2,7 +2,7 @@
 <p align="flex-start">I am a data analytics enthusiast</p>
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr">
+    <img height="150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr)">
     <img height="150em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
 
