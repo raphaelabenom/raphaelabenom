@@ -1,15 +1,14 @@
 ### Welcome to my profile!
-<h3 align="flex-start">I am a data analytics enthusiast</h3>
+<h4 align="flex-start">I am a data analytics enthusiast</h3>
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr">
 </div>
 
-<!-- (https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelabenom&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelabenom" /> </p>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +19,6 @@
   <img align="center" alt="Rapha-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Rapha-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
 </div>
-
-<br>
 
 <h3 align="left">Connect with me</h3>
 <div> 
