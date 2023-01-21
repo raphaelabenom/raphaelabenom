@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-<h4 align="flex-start">I am a data analytics enthusiast</h3>
+<p align="flex-start">I am a data analytics enthusiast</p>
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr">
