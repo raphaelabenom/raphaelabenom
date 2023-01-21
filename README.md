@@ -1,8 +1,10 @@
-<h1 align="flex-start">Hi 👋, I'm Raphael Abenom</h1>
-<h3 align="flex-start">A data analytics enthusiast from Brazil</h3>
+### Welcome to my profile!
+<h3 align="flex-start">I am a data analytics enthusiast</h3>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
+<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelabenom&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelabenom" /> </p>
 
