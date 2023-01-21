@@ -2,9 +2,12 @@
 <h3 align="flex-start">I am a data analytics enthusiast</h3>
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr">
 </div>
+
+<!-- (https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelabenom&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelabenom&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelabenom" /> </p>
 
