@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-<p align="flex-start">I am a data analytics enthusiast</p>
+<p align="flex-start">🌐 I have experience at working with Python, SQL, UiPath and it's libraries for Data Science</p>
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelabenom&show_icons=true&theme=codeSTACKr">
