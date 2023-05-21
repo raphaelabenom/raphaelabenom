@@ -1,4 +1,6 @@
 ### Welcome to my profile!
+<a href="https://www.linkedin.com/in/raphael-abenom"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.instagram.com/raphaelbn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://medium.com/@raphael.abenom"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a><img src="https://img.shields.io/github/followers/raphaelabenom?logo=github&style=for-the-badge"/>[![Gmail Badge](https://img.shields.io/badge/send%20me%20a%20email-silver?style=for-the-badge&logo=gmail&link=mailto:raphael.abenom@gmail.com)](mailto:raphael.abenom@gmail.com)
+
 <p align="flex-start">🌐 I have experience at working with Python, SQL, UiPath and it's libraries for Data Science</p>
 
 <div>
