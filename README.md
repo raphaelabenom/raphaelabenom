@@ -23,4 +23,4 @@
 <h3 align="left">Conecte-se comigo</h3>
 <a href="https://www.linkedin.com/in/raphael-abenom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/raphaelbn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://medium.com/@raphael.abenom"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <img src="https://img.shields.io/github/followers/raphaelabenom?logo=github&style=for-the-badge"/> 
-[![Gmail Badge](https://img.shields.io/badge/envie%20um%20email-prata?style=for-the-badge&logo=gmail&link=mailto:raphael.abenom@gmail.com)](mailto:raphael.abenom@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/envie%20um%20email-silver?style=for-the-badge&logo=gmail&link=mailto:raphael.abenom@gmail.com)](mailto:raphael.abenom@gmail.com)
